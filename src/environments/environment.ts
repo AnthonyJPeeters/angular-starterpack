@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  serverUrl: 'https://angularstarterpacktest.herokuapp.com/api/v1/'
+  serverUrl: 'https://nosqltestproject.herokuapp.com/api/v1/'
 };
